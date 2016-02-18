@@ -221,9 +221,9 @@ function create_config( )
     "all",
     "helprealm"
     },
-    sudo_users = {94704012},--Sudo users
+    sudo_users = {134618808},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {108071606},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V3.5
 
